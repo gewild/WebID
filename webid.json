@@ -1,0 +1,8 @@
+{
+  "@context": {
+     "@vocab": "http://xmlns.com/foaf/0.1/"
+  },
+  "@type": "Person",
+  "@id" : "https://github.com/gewild/WebID/",
+  "name": "Gerald Wildenbeest"
+}
